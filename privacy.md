@@ -52,6 +52,7 @@ Platform SDK가 아래 정보를 Google로 보냅니다. Mac 버전에는 광고
 보내는 경우에는 사용자가 고른 상대·서비스에만 전달됩니다.
 
 ### 6. 개인정보의 국외 이전 (광고)
+
 | 항목 | 내용 |
 |---|---|
 | 이전받는 자 | Google LLC (계열사 포함), 연락처: https://support.google.com/policies/contact/general_privacy_form |
